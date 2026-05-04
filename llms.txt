@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Kelowna
+
+> Geotechnical engineering services in Kelowna, Canada.
+
+## Services
+- [Anchors](https://kelowna.geotechnicalengineering.xyz/anchors/)
+- [Atterberg Limits](https://kelowna.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cbr Road](https://kelowna.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://kelowna.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://kelowna.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://kelowna.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://kelowna.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://kelowna.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://kelowna.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://kelowna.geotechnicalengineering.xyz/foundations/)
+- [Grain Size](https://kelowna.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://kelowna.geotechnicalengineering.xyz/ground-improvement/)
+- [Grouting](https://kelowna.geotechnicalengineering.xyz/grouting/)
+- [In Situ Permeability](https://kelowna.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://kelowna.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://kelowna.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://kelowna.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://kelowna.geotechnicalengineering.xyz/liquefaction/)
+- [Masw](https://kelowna.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://kelowna.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://kelowna.geotechnicalengineering.xyz/piles/)
+- [Proctor Tests](https://kelowna.geotechnicalengineering.xyz/proctor-tests/)
+- [Resistivity](https://kelowna.geotechnicalengineering.xyz/resistivity/)
+- [Retaining Walls](https://kelowna.geotechnicalengineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://kelowna.geotechnicalengineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://kelowna.geotechnicalengineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://kelowna.geotechnicalengineering.xyz/sand-cone-density/)
+- [Seismic](https://kelowna.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://kelowna.geotechnicalengineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://kelowna.geotechnicalengineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://kelowna.geotechnicalengineering.xyz/seismic-refraction/)
+- [Slope Stability](https://kelowna.geotechnicalengineering.xyz/slope-stability/)
+- [Slopes](https://kelowna.geotechnicalengineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://kelowna.geotechnicalengineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://kelowna.geotechnicalengineering.xyz/spt-drilling/)
+- [Stone Columns](https://kelowna.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://kelowna.geotechnicalengineering.xyz/test-pits/)
+- [Triaxial](https://kelowna.geotechnicalengineering.xyz/triaxial/)
+- [Vibrocompaction](https://kelowna.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://kelowna.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Kelowna, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
